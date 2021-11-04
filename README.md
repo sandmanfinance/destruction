@@ -23,8 +23,8 @@ The Anti-bot Feature checks for 3 conditions:
 
 |Contract     | PolygonScan Address       |
 |-------------|---------------------------|
-|Destruction Token|TBA           |
-|MasterChef   |TBA            |
-|TimeLock     |TBA            |
+|Destruction Token|0xCa4992F01B63C7cEB98505946b79D7D8855449F9        |
+|MasterChef   |0x85A025BA2C054117Bc53666342F8A0Be08C38A9F            |
+|TimeLock     |0x1992c5B912Cd0796A54A51d3D7235a8090C60419            |
 
 HAPPY FARMING & Dream a Little Dream of Destruction Farm.
